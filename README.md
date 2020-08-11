@@ -1,5 +1,5 @@
 # SketchMan2020
-SketchMan: Learning To Create Professional Sketch
+SketchMan: Learning To Create Professional Sketches
 
 This is a instructions for use of SketchMan dataset.
 We have provided the approximate professional NPS and the free-hand NPS.
