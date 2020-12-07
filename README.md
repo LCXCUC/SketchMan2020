@@ -8,5 +8,7 @@ Please refer to the file colored_sketch_pair.csv for more details in https://git
 Once you have obtained the original and colored PS, the grayscale PS and the background mask can be produced via specific CV algorithms. 
 Moreover, the corner points, straight lines and abstract contour can be extracted by means of the methods introduced in our paper. 
 
+# Citation
+
 # Acknowledgements
 Thanks a lot for jerryli27/pixiv_dataset.
