@@ -10,5 +10,15 @@ Moreover, the corner points, straight lines and abstract contour can be extracte
 
 # Citation
 
+If you want to obtain this dataset, please consider contacting the authors lcxnn@cuc.edu.cn, and citing:
+
+@inproceedings{li2020sketchman,
+  title={SketchMan: Learning to Create Professional Sketches},
+  author={Li, Jia and Gao, Nan and Shen, Tong and Zhang, Wei and Mei, Tao and Ren, Hui},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={3237--3245},
+  year={2020}
+}
+
 # Acknowledgements
 Thanks a lot for jerryli27/pixiv_dataset.
