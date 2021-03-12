@@ -10,7 +10,7 @@ Moreover, the corner points, straight lines and abstract contour can be extracte
 
 # Citation
 
-If you want to obtain this dataset, please consider contacting the authors lcxnn@cuc.edu.cn, and citing:
+If you want to obtain this dataset, please consider contacting the authors lcxnn@cuc.edu.cn or jia.li@cripac.ia.ac.cn, and citing:
 
 @inproceedings{li2020sketchman,  
   title={SketchMan: Learning to Create Professional Sketches},  
