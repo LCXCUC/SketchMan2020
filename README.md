@@ -1,7 +1,9 @@
 # SketchMan2020
-SketchMan: Learning To Create Professional Sketches
+SketchMan: Learning To Create Professional Sketches.
+
 Dataset: https://pan.baidu.com/s/1OKW50HhAb93yCksk8PxGcw 
 pwd: cxox 
+
 This is a instructions for use of SketchMan dataset, which will be publicly available soon.
 We have provided the approximate professional NPS and the free-hand NPS.  
 Unfortunately, we cannot directly provide the professional sketch images since we do not own them. Alternatively, we provide the selected colored sketch ID in our paper.  
